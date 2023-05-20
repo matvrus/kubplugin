@@ -44,4 +44,3 @@ Resource: po, Namespace: kube-system, Name: metrics-server-7b67f64457-brgvw, CPU
 
 ## 🎥 [#Демонстрація](#демонстрація)
 <script async id="asciicast-BlyMXjxBZ8HGdA90gQ2q1GVCU" src="https://asciinema.org/a/BlyMXjxBZ8HGdA90gQ2q1GVCU.js"></script>
-[![asciicast](https://asciinema.org/a/BlyMXjxBZ8HGdA90gQ2q1GVCU.svg)](https://asciinema.org/a/BlyMXjxBZ8HGdA90gQ2q1GVCU)
