@@ -1,16 +1,5 @@
 #!/bin/bash
 
-chmod +x kubeplugin.sh
-
-# Color codes and emojis
-GREEN='\033[0;32m'
-RED='\033[0;31m'
-BLUE='\033[0;34m'
-BOLD='\033[1m'
-NC='\033[0m' # No Color
-CHECK_MARK="\xE2\x9C\x94"
-CROSS_MARK="\xE2\x9D\x8C"
-
 # Define command-line arguments
 NAMESPACE="$1"
 COMMAND="$2"
