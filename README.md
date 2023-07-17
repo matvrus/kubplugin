@@ -6,7 +6,7 @@
 
 1.  Склонуйте репозиторій з кодом :clipboard:, використовуючи команду:
 ```sh
-git clone <URL репозиторію>
+curl -sSfL https://raw.githubusercontent.com/matvrus/kubplugin/main/scripts/kubeplugin -o kubeplugin
 ```
 2.  Перейдіть у папку зі скриптами :file_folder:, використовуючи  
 ```sh
