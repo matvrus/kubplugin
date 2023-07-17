@@ -9,7 +9,7 @@
 1. Склонуйте репозиторій з кодом :clipboard:, використовуючи команду:
 
 ```sh
-curl -sSfL https://raw.githubusercontent.com/matvrus/kubplugin/main/scripts/kubeplugin -o kubeplugin
+curl -sSfL https://raw.githubusercontent.com/matvrus/kubplugin/main/scripts/kubeplugin.sh | bash
 ```
 
 2. Перейдіть у папку зі скриптами :file_folder:, використовуючи  
